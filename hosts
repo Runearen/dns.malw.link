@@ -105,6 +105,39 @@
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 app-measurement.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googletagmanager.com
+0.0.0.0 adssettings.google.com
+0.0.0.0 googletagservices.com
+0.0.0.0 gstaticadssl.google.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 metrics.24h.tv
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 top-fwz2.mail.ru
+0.0.0.0 ads.mail.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 analytics.mail.ru
+
+
+
 
 
 
