@@ -59,7 +59,7 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 sentry.io
 0.0.0.0 px.ads.linkedin.com
-0.0.0.0ads.reddit.com
+0.0.0.0 ads.reddit.com
 0.0.0.0 iplogger.org
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
@@ -85,6 +85,28 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 log.byteoversea.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 log.pinterest.com
+
+
 
 
 
