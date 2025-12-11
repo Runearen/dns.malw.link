@@ -75,6 +75,10 @@
 ||wikidot.com^$dnsrewrite=77.239.125.72
 ||windsurf.com^$dnsrewrite=77.239.125.72
 ||x.ai^$dnsrewrite=77.239.125.72
+||zerossl.com^$dnsrewrite=77.239.125.72
+||soundcloud.com^$dnsrewrite=77.239.125.72
+||sndcdn.com^$dnsrewrite=77.239.125.72
+||midjourney.com^$dnsrewrite=77.239.125.72
 #
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
@@ -139,3 +143,4 @@
 |xgpuwebf2p.gssv-play-prod.xboxlive.com^$dnsrewrite=77.239.125.72
 |xsts.auth.xboxlive.com^$dnsrewrite=77.239.125.72
 |m.kuku.lu^$dnsrewrite=77.239.125.72
+|www.midjourney.com^$dnsrewrite=77.239.125.72
