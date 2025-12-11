@@ -95,6 +95,7 @@
 |api.imgur.com^$dnsrewrite=77.239.125.72
 |api.jetbrains.ai^$dnsrewrite=77.239.125.72
 |api16-normal-alisg.mchost.guru^$dnsrewrite=77.239.125.72
+|app.koofr.net^$dnsrewrite=77.239.125.72
 |assistant-s3-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |auth.anthropic.com^$dnsrewrite=45.95.233.23
 |builds.parsec.app^$dnsrewrite=77.239.125.72
@@ -142,9 +143,8 @@
 |www.dell.com^$dnsrewrite=77.239.125.72
 |www.intel.com^$dnsrewrite=77.239.125.72
 |www.tiktok.com^$dnsrewrite=77.239.125.72
+|www.midjourney.com^$dnsrewrite=77.239.125.72
 |xgpuweb.gssv-play-prod.xboxlive.com^$dnsrewrite=77.239.125.72
 |xgpuwebf2p.gssv-play-prod.xboxlive.com^$dnsrewrite=77.239.125.72
 |xsts.auth.xboxlive.com^$dnsrewrite=77.239.125.72
 |m.kuku.lu^$dnsrewrite=77.239.125.72
-|www.midjourney.com^$dnsrewrite=77.239.125.72
-|app.koofr.net^$dnsrewrite=77.239.125.72
