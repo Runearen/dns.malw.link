@@ -59,7 +59,6 @@
 ||pixabay.com^$dnsrewrite=77.239.125.72
 ||proton.me^$dnsrewrite=77.239.125.72
 ||qwant.com^$dnsrewrite=77.239.125.72
-||snapeda.com^$dnsrewrite=77.239.125.72
 ||sora.com^$dnsrewrite=77.239.125.72
 ||spotify.com^$dnsrewrite=77.239.125.72
 ||strava.com^$dnsrewrite=77.239.125.72
@@ -79,7 +78,6 @@
 #
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
-|accounts.supercell.com^$dnsrewrite=77.239.125.72
 |afcs.dellcdn.com^$dnsrewrite=77.239.125.72
 |aisandbox-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |aitestkitchen.withgoogle.com^$dnsrewrite=77.239.125.72
@@ -93,8 +91,6 @@
 |assistant-s3-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |auth.anthropic.com^$dnsrewrite=45.95.233.23
 |builds.parsec.app^$dnsrewrite=77.239.125.72
-|cdn.id.supercell.com^$dnsrewrite=77.239.125.72
-|clashofclans.inbox.supercell.com^$dnsrewrite=77.239.125.72
 |console.anthropic.com^$dnsrewrite=77.239.125.72
 |copilot.microsoft.com^$dnsrewrite=77.239.125.72
 |datalore.jetbrains.com^$dnsrewrite=77.239.125.72
@@ -125,9 +121,7 @@
 |profile.broadcom.com^$dnsrewrite=77.239.125.72
 |rewards.bing.com^$dnsrewrite=77.239.125.72
 |robinfrontend-pa.googleapis.com^$dnsrewrite=77.239.125.72
-|security.id.supercell.com^$dnsrewrite=77.239.125.72
 |stitch.withgoogle.com^$dnsrewrite=77.239.125.72
-|store.supercell.com^$dnsrewrite=77.239.125.72
 |support.broadcom.com^$dnsrewrite=77.239.125.72
 |sydney.bing.com^$dnsrewrite=77.239.125.72
 |trae-api-sg.mchost.guru^$dnsrewrite=77.239.125.72
