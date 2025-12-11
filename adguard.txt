@@ -139,7 +139,4 @@
 |www.tiktok.com^$dnsrewrite=77.239.125.72
 |www.midjourney.com^$dnsrewrite=77.239.125.72
 |www.qwant.com^$dnsrewrite=77.239.125.72
-|xgpuweb.gssv-play-prod.xboxlive.com^$dnsrewrite=77.239.125.72
-|xgpuwebf2p.gssv-play-prod.xboxlive.com^$dnsrewrite=77.239.125.72
-|xsts.auth.xboxlive.com^$dnsrewrite=77.239.125.72
 |m.kuku.lu^$dnsrewrite=77.239.125.72
