@@ -4,7 +4,9 @@
 |z-p42-chat-e2ee-ig.facebook.com^$dnsrewrite=157.240.245.174
 |help.instagram.com^$dnsrewrite=157.240.245.174
 |protonmail.com^$dnsrewrite=77.239.125.72
-|mail.proton.me^$dnsrewrite=77.239.125.72
+|protonstatus.com^$dnsrewrite=77.239.125.72
+|pm.me^$dnsrewrite=77.239.125.72
+|protonmail.ch^$dnsrewrite=77.239.125.72
 |yt3.ggpht.com^$dnsrewrite=64.233.164.198
 |yt4.ggpht.com^$dnsrewrite=64.233.164.132
 |tracker.openbittorrent.com^$dnsrewrite=52.223.13.41
@@ -61,6 +63,7 @@
 ||oaiusercontent.com^$dnsrewrite=77.239.125.72
 ||openai.com^$dnsrewrite=77.239.125.72
 ||pixabay.com^$dnsrewrite=77.239.125.72
+||proton.me^$dnsrewrite=77.239.125.72
 ||qwant.com^$dnsrewrite=77.239.125.72
 ||snapeda.com^$dnsrewrite=77.239.125.72
 ||sora.com^$dnsrewrite=77.239.125.72
@@ -144,3 +147,4 @@
 |xsts.auth.xboxlive.com^$dnsrewrite=77.239.125.72
 |m.kuku.lu^$dnsrewrite=77.239.125.72
 |www.midjourney.com^$dnsrewrite=77.239.125.72
+|app.koofr.net^$dnsrewrite=77.239.125.72
