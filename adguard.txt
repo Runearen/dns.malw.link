@@ -16,12 +16,6 @@
 |controlplane.tailscale.com^$dnsrewrite=185.87.51.182
 |d.rutor.info^$dnsrewrite=172.64.33.155
 #
-|game.clashroyaleapp.com^$dnsrewrite=77.239.125.72
-|gamea.clashofclans.com^$dnsrewrite=64.188.98.242
-|game.brawlstarsgame.com^$dnsrewrite=77.239.125.72
-|game.squadbustersgame.com^$dnsrewrite=108.61.167.26
-|game.mocogame.com^$dnsrewrite=77.239.125.72
-#
 |alkalimakersuite-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |webchannel-alkalimakersuite-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |aistudio.google.com^$dnsrewrite=77.239.125.72
