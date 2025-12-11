@@ -3,8 +3,8 @@
 |b.i.instagram.com^$dnsrewrite=157.240.245.174
 |z-p42-chat-e2ee-ig.facebook.com^$dnsrewrite=157.240.245.174
 |help.instagram.com^$dnsrewrite=157.240.245.174
-|protonmail.com^$dnsrewrite=3.66.189.153
-|mail.proton.me^$dnsrewrite=3.66.189.153
+|protonmail.com^$dnsrewrite=77.239.125.72
+|mail.proton.me^$dnsrewrite=77.239.125.72
 |yt3.ggpht.com^$dnsrewrite=64.233.164.198
 |yt4.ggpht.com^$dnsrewrite=64.233.164.132
 |tracker.openbittorrent.com^$dnsrewrite=52.223.13.41
