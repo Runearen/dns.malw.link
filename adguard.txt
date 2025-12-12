@@ -75,6 +75,7 @@
 ||soundcloud.com^$dnsrewrite=77.239.125.72
 ||sndcdn.com^$dnsrewrite=77.239.125.72
 ||midjourney.com^$dnsrewrite=77.239.125.72
+||gcore.com^$dnsrewrite=77.239.125.72
 #
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
