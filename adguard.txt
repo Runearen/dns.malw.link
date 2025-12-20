@@ -7,8 +7,6 @@
 |protonstatus.com^$dnsrewrite=77.239.125.72
 |pm.me^$dnsrewrite=77.239.125.72
 |protonmail.ch^$dnsrewrite=77.239.125.72
-|yt3.ggpht.com^$dnsrewrite=64.233.164.198
-|yt4.ggpht.com^$dnsrewrite=64.233.164.132
 |tracker.openbittorrent.com^$dnsrewrite=52.223.13.41
 |ntc.party^$dnsrewrite=130.255.77.28
 |rutor.info^$dnsrewrite=172.64.33.155
