@@ -55,7 +55,6 @@
 ||openai.com^$dnsrewrite=77.239.125.72
 ||pixabay.com^$dnsrewrite=77.239.125.72
 ||patreon.com^$dnsrewrite=77.239.125.72
-||pump.fun^$dnsrewrite=185.246.223.127
 ||proton.me^$dnsrewrite=77.239.125.72
 ||qwant.com^$dnsrewrite=77.239.125.72
 ||sora.com^$dnsrewrite=77.239.125.72
