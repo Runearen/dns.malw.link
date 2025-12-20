@@ -13,11 +13,9 @@
 |rutor.is^$dnsrewrite=173.245.59.155
 |controlplane.tailscale.com^$dnsrewrite=185.87.51.182
 |d.rutor.info^$dnsrewrite=172.64.33.155
-#
 |alkalimakersuite-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |webchannel-alkalimakersuite-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |aistudio.google.com^$dnsrewrite=77.239.125.72
-#
 ||analog.com^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
 ||canva.com^$dnsrewrite=77.239.125.72
@@ -75,7 +73,6 @@
 ||sndcdn.com^$dnsrewrite=77.239.125.72
 ||midjourney.com^$dnsrewrite=77.239.125.72
 ||gcore.com^$dnsrewrite=77.239.125.72
-#
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
 |afcs.dellcdn.com^$dnsrewrite=77.239.125.72
