@@ -22,8 +22,8 @@
 |bard.google.com^$dnsrewrite=77.239.125.72
 |deepmind.com^$dnsrewrite=77.239.125.72
 |deepmind.google^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
+|developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
+|geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
 ||analog.com^$dnsrewrite=77.239.125.72
 ||anthropic.com^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
@@ -113,8 +113,12 @@
 |game-assets.clashofclans.com^$dnsrewrite=77.239.125.72
 |game-assets.clashroyaleapp.com^$dnsrewrite=77.239.125.72
 |gemini.google.com^$dnsrewrite=77.239.125.72
+|gemini.google^$dnsrewrite=77.239.125.72
+|generativeai.google^$dnsrewrite=77.239.125.72
 |generativelanguage.googleapis.com^$dnsrewrite=77.239.125.72
 |gql.twitch.tv^$dnsrewrite=77.239.125.72
+|gpt3-openai.com^$dnsrewrite=77.239.125.72
+|grok.x.com^$dnsrewrite=77.239.125.72
 |i.dell.com^$dnsrewrite=77.239.125.72
 |jules.google.com^$dnsrewrite=77.239.125.72
 |knowledge.broadcom.com^$dnsrewrite=77.239.125.72
@@ -148,3 +152,7 @@
 |designer.microsoft.com^$dnsrewrite=77.239.125.72
 |d.docs.live.net^$dnsrewrite=77.239.125.72
 |designerapp.officeapps.live.com^$dnsrewrite=77.239.125.72
+|ecs.office.com^$dnsrewrite=77.239.125.72
+|dnsspeedtest.online^$dnsrewrite=77.239.125.72
+|dnsspeedtest.online^$dnsrewrite=77.239.125.72
+|dnsspeedtest.online^$dnsrewrite=77.239.125.72
