@@ -71,6 +71,7 @@
 ||qwant.com^$dnsrewrite=77.239.125.72
 ||sora.com^$dnsrewrite=77.239.125.72
 ||spotify.com^$dnsrewrite=77.239.125.72
+||spotifycdn.com^$dnsrewrite=77.239.125.72
 ||strava.com^$dnsrewrite=77.239.125.72
 ||temp-number.org^$dnsrewrite=77.239.125.72
 ||ti.com^$dnsrewrite=77.239.125.72
