@@ -144,3 +144,7 @@
 |www.elgato.com^$dnsrewrite=77.239.125.72
 |securitytrails.com^$dnsrewrite=77.239.125.72
 |www.pcmag.com^$dnsrewrite=77.239.125.72
+|deepl.app^$dnsrewrite=77.239.125.72
+|designer.microsoft.com^$dnsrewrite=77.239.125.72
+|d.docs.live.net^$dnsrewrite=77.239.125.72
+|designerapp.officeapps.live.com^$dnsrewrite=77.239.125.72
