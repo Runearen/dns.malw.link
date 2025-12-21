@@ -134,6 +134,10 @@
 |notebooklm.google.com^$dnsrewrite=77.239.125.72
 |o.pki.goog^$dnsrewrite=77.239.125.72
 |opal.withgoogle.com^$dnsrewrite=77.239.125.72
+|people-pa.clients6.google.com^$dnsrewrite=77.239.125.72
+|signaler-pa.clients6.google.com^$dnsrewrite=77.239.125.72
+|suggestqueries.google.com^$dnsrewrite=77.239.125.72
+|waa-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |plugins.jetbrains.com^$dnsrewrite=77.239.125.72
 |proactivebackend-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |profile.broadcom.com^$dnsrewrite=77.239.125.72
@@ -162,4 +166,6 @@
 |ecs.office.com^$dnsrewrite=77.239.125.72
 |manybooks.net^$dnsrewrite=77.239.125.72
 |dnsspeedtest.online^$dnsrewrite=77.239.125.72
-|dnsspeedtest.online^$dnsrewrite=77.239.125.72
+|openaiapi-site.azureedge.net^$dnsrewrite=77.239.125.72
+|openaipublic.blob.core.windows.net^$dnsrewrite=77.239.125.72
+|openrouter.ai^$dnsrewrite=77.239.125.72
