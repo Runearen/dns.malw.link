@@ -59,6 +59,7 @@
 ||manus.im^$dnsrewrite=77.239.125.72
 ||mongodb.com^$dnsrewrite=77.239.125.72
 ||notion.so^$dnsrewrite=77.239.125.72
+||notion.com^$dnsrewrite=77.239.125.72
 ||oaistatic.com^$dnsrewrite=77.239.125.72
 ||oaiusercontent.com^$dnsrewrite=77.239.125.72
 ||openai.com^$dnsrewrite=77.239.125.72
@@ -82,6 +83,7 @@
 ||soundcloud.com^$dnsrewrite=77.239.125.72
 ||sndcdn.com^$dnsrewrite=77.239.125.72
 ||midjourney.com^$dnsrewrite=77.239.125.72
+||meta.ai^$dnsrewrite=77.239.125.72
 ||gcore.com^$dnsrewrite=77.239.125.72
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
@@ -121,12 +123,17 @@
 |grok.x.com^$dnsrewrite=77.239.125.72
 |i.dell.com^$dnsrewrite=77.239.125.72
 |jules.google.com^$dnsrewrite=77.239.125.72
+|jules.google^$dnsrewrite=77.239.125.72
 |knowledge.broadcom.com^$dnsrewrite=77.239.125.72
 |labs.google^$dnsrewrite=77.239.125.72
+|labs.google.com^$dnsrewrite=77.239.125.72
+|lookerstudio.google.com^$dnsrewrite=77.239.125.72
+|makersuite.google.com^$dnsrewrite=77.239.125.72
 |nexus.dell.com^$dnsrewrite=77.239.125.72
 |notebooklm.google^$dnsrewrite=77.239.125.72
 |notebooklm.google.com^$dnsrewrite=77.239.125.72
 |o.pki.goog^$dnsrewrite=77.239.125.72
+|opal.withgoogle.com^$dnsrewrite=77.239.125.72
 |plugins.jetbrains.com^$dnsrewrite=77.239.125.72
 |proactivebackend-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |profile.broadcom.com^$dnsrewrite=77.239.125.72
@@ -153,6 +160,6 @@
 |d.docs.live.net^$dnsrewrite=77.239.125.72
 |designerapp.officeapps.live.com^$dnsrewrite=77.239.125.72
 |ecs.office.com^$dnsrewrite=77.239.125.72
-|dnsspeedtest.online^$dnsrewrite=77.239.125.72
+|manybooks.net^$dnsrewrite=77.239.125.72
 |dnsspeedtest.online^$dnsrewrite=77.239.125.72
 |dnsspeedtest.online^$dnsrewrite=77.239.125.72
