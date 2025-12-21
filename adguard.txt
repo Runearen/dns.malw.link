@@ -18,10 +18,10 @@
 |aistudio.google.com^$dnsrewrite=77.239.125.72
 |ai.google.dev^$dnsrewrite=77.239.125.72
 |alkalicore-pa.clients6.google.com^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
-|ai.google.dev^$dnsrewrite=77.239.125.72
+|apis.google.com^$dnsrewrite=77.239.125.72
+|bard.google.com^$dnsrewrite=77.239.125.72
+|deepmind.com^$dnsrewrite=77.239.125.72
+|deepmind.google^$dnsrewrite=77.239.125.72
 |ai.google.dev^$dnsrewrite=77.239.125.72
 |ai.google.dev^$dnsrewrite=77.239.125.72
 ||analog.com^$dnsrewrite=77.239.125.72
