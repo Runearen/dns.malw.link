@@ -51,7 +51,6 @@
 ||githubcopilot.com^$dnsrewrite=77.239.125.72
 ||grok.com^$dnsrewrite=77.239.125.72
 ||grokusercontent.com^$dnsrewrite=77.239.125.72
-||guidedhacking.com^$dnsrewrite=185.87.51.182
 ||httptoolkit.com^$dnsrewrite=45.95.233.23
 ||hume.ai^$dnsrewrite=77.239.125.72
 ||hybrid-analysis.com^$dnsrewrite=77.239.125.72
@@ -124,6 +123,8 @@
 |gql.twitch.tv^$dnsrewrite=77.239.125.72
 |gpt3-openai.com^$dnsrewrite=77.239.125.72
 |grok.x.com^$dnsrewrite=77.239.125.72
+|guidedhacking.com^$dnsrewrite=45.155.204.190
+|www.guidedhacking.com^$dnsrewrite=45.155.204.190
 |i.dell.com^$dnsrewrite=77.239.125.72
 |jules.google.com^$dnsrewrite=77.239.125.72
 |jules.google^$dnsrewrite=77.239.125.72
