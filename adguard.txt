@@ -37,6 +37,7 @@
 ||clickup.com^$dnsrewrite=77.239.125.72
 ||cloudmatchbeta.nvidiagrid.net^$dnsrewrite=77.239.125.72
 ||codeium.com^$dnsrewrite=77.239.125.72
+||coursera.org^$dnsrewrite=77.239.125.72
 ||deepl.com^$dnsrewrite=77.239.125.72
 ||deepl.app^$dnsrewrite=77.239.125.72
 ||deezer.com^$dnsrewrite=77.239.125.72
