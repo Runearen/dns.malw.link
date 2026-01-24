@@ -24,6 +24,7 @@
 |deepmind.google^$dnsrewrite=77.239.125.72
 |developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
+||adobe.com^$dnsrewrite=77.239.125.72
 ||analog.com^$dnsrewrite=77.239.125.72
 ||anthropic.com^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
