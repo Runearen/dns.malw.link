@@ -27,6 +27,7 @@
 ||analog.com^$dnsrewrite=77.239.125.72
 ||anthropic.com^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
+||behance.net^$dnsrewrite=77.239.125.72
 ||canva.com^$dnsrewrite=77.239.125.72
 ||chatgpt.com^$dnsrewrite=77.239.125.72
 ||claude.ai^$dnsrewrite=77.239.125.72
@@ -50,6 +51,7 @@
 ||elevenlabs.io^$dnsrewrite=77.239.125.72
 ||elevenreader.io^$dnsrewrite=77.239.125.72
 ||framer.com^$dnsrewrite=77.239.125.72
+||figma.com^$dnsrewrite=77.239.125.72
 ||genspark.ai^$dnsrewrite=77.239.125.72
 ||githubcopilot.com^$dnsrewrite=77.239.125.72
 ||grok.com^$dnsrewrite=77.239.125.72
