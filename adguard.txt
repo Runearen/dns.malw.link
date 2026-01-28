@@ -85,6 +85,7 @@
 ||tidal.com^$dnsrewrite=77.239.125.72
 ||trae.ai^$dnsrewrite=77.239.125.72
 ||tria.ge^$dnsrewrite=77.239.125.72
+||tryhackme.com^$dnsrewrite=77.239.125.72
 ||tuta.com^$dnsrewrite=77.239.125.72
 ||tutanota.com^$dnsrewrite=77.239.125.72
 ||weather.com^$dnsrewrite=77.239.125.72
