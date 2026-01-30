@@ -118,6 +118,7 @@
 |auth.anthropic.com^$dnsrewrite=45.95.233.23
 |builds.parsec.app^$dnsrewrite=77.239.125.72
 |console.anthropic.com^$dnsrewrite=77.239.125.72
+|console.groq.com^$dnsrewrite=77.239.125.72
 |copilot.microsoft.com^$dnsrewrite=77.239.125.72
 |datalore.jetbrains.com^$dnsrewrite=77.239.125.72
 |dds.dell.com^$dnsrewrite=77.239.125.72
