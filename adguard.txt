@@ -159,6 +159,7 @@
 |stitch.withgoogle.com^$dnsrewrite=77.239.125.72
 |support.broadcom.com^$dnsrewrite=77.239.125.72
 |sydney.bing.com^$dnsrewrite=77.239.125.72
+|technicalramblings.com^$dnsrewrite=77.239.125.72
 |trae-api-sg.mchost.guru^$dnsrewrite=77.239.125.72
 |us.posthog.com^$dnsrewrite=77.239.125.72
 |usher.ttvnw.net^$dnsrewrite=77.239.125.72
