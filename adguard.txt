@@ -98,6 +98,10 @@
 ||midjourney.com^$dnsrewrite=77.239.125.72
 ||meta.ai^$dnsrewrite=77.239.125.72
 ||gcore.com^$dnsrewrite=77.239.125.72
+||netacad.com^$dnsrewrite=77.239.125.72
+||dellcdn.com^$dnsrewrite=77.239.125.72
+||datacamp.com^$dnsrewrite=77.239.125.72
+||discord.me^$dnsrewrite=77.239.125.72
 |access.broadcom.com^$dnsrewrite=77.239.125.72
 |account.jetbrains.com^$dnsrewrite=77.239.125.72
 |afcs.dellcdn.com^$dnsrewrite=77.239.125.72
