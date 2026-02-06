@@ -65,6 +65,7 @@
 ||linear.app^$dnsrewrite=77.239.125.72
 ||m3u.in^$dnsrewrite=77.239.125.72
 ||manus.im^$dnsrewrite=77.239.125.72
+||mistral.ai^$dnsrewrite=77.239.125.72
 ||mongodb.com^$dnsrewrite=77.239.125.72
 ||notion.so^$dnsrewrite=77.239.125.72
 ||notion.com^$dnsrewrite=77.239.125.72
