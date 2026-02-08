@@ -27,6 +27,7 @@
 ||adobe.com^$dnsrewrite=77.239.125.72
 ||analog.com^$dnsrewrite=77.239.125.72
 ||anthropic.com^$dnsrewrite=77.239.125.72
+||apple.com^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
 ||behance.net^$dnsrewrite=77.239.125.72
 ||canva.com^$dnsrewrite=77.239.125.72
