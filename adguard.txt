@@ -9,8 +9,8 @@
 |protonmail.ch^$dnsrewrite=77.239.125.72
 |tracker.openbittorrent.com^$dnsrewrite=52.223.13.41
 |ntc.party^$dnsrewrite=130.255.77.28
-|rutor.info^$dnsrewrite=172.64.33.155
-|rutor.is^$dnsrewrite=173.245.59.155
+|rutor.info^$dnsrewrite=172.64.33.219
+|rutor.is^$dnsrewrite=172.64.33.219
 |controlplane.tailscale.com^$dnsrewrite=77.239.125.72
 |d.rutor.info^$dnsrewrite=172.64.33.155
 |alkalimakersuite-pa.clients6.google.com^$dnsrewrite=77.239.125.72
