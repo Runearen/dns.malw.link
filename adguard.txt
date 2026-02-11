@@ -170,7 +170,7 @@
 |trae-api-sg.mchost.guru^$dnsrewrite=77.239.125.72
 |us.posthog.com^$dnsrewrite=77.239.125.72
 |usher.ttvnw.net^$dnsrewrite=77.239.125.72
-|web.archive.org^$dnsrewrite=77.239.125.72
+||archive.org^$dnsrewrite=77.239.125.72
 |www.dell.com^$dnsrewrite=77.239.125.72
 |www.intel.com^$dnsrewrite=77.239.125.72
 |www.tiktok.com^$dnsrewrite=77.239.125.72
