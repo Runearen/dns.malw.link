@@ -55,6 +55,7 @@
 ||elevenreader.io^$dnsrewrite=77.239.125.72
 ||framer.com^$dnsrewrite=77.239.125.72
 ||figma.com^$dnsrewrite=77.239.125.72
+||fmhy.net^$dnsrewrite=77.239.125.72
 ||genspark.ai^$dnsrewrite=77.239.125.72
 ||githubcopilot.com^$dnsrewrite=77.239.125.72
 ||grok.com^$dnsrewrite=77.239.125.72
