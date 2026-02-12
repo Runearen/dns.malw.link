@@ -190,3 +190,5 @@
 |dnsspeedtest.online^$dnsrewrite=77.239.125.72
 |openaiapi-site.azureedge.net^$dnsrewrite=77.239.125.72
 |openaipublic.blob.core.windows.net^$dnsrewrite=77.239.125.72
+|xdaforums.com^$dnsrewrite=77.239.125.72
+
