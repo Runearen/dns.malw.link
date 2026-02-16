@@ -191,4 +191,5 @@
 |openaiapi-site.azureedge.net^$dnsrewrite=77.239.125.72
 |openaipublic.blob.core.windows.net^$dnsrewrite=77.239.125.72
 |xdaforums.com^$dnsrewrite=77.239.125.72
+|anonymousemail.me^$dnsrewrite=77.239.125.72
 
