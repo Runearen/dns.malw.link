@@ -48,6 +48,8 @@
 ||deepl.com^$dnsrewrite=77.239.125.72
 ||deepl.app^$dnsrewrite=77.239.125.72
 ||deezer.com^$dnsrewrite=77.239.125.72
+||dell.com^$dnsrewrite=77.239.125.72
+||intel.com^$dnsrewrite=77.239.125.72
 ||designify.com^$dnsrewrite=77.239.125.72
 ||dyson.com^$dnsrewrite=77.239.125.72
 ||dyson.fr^$dnsrewrite=77.239.125.72
