@@ -34,7 +34,6 @@
 ||archive.org^$dnsrewrite=77.239.125.72
 ||augmentcode.com^$dnsrewrite=77.239.125.72
 ||behance.net^$dnsrewrite=77.239.125.72
-||business.gemini.google^$dnsrewrite=77.239.125.72
 ||canva.com^$dnsrewrite=77.239.125.72
 ||chatgpt.com^$dnsrewrite=77.239.125.72
 ||claude.ai^$dnsrewrite=77.239.125.72
@@ -198,4 +197,6 @@
 |openaipublic.blob.core.windows.net^$dnsrewrite=77.239.125.72
 |xdaforums.com^$dnsrewrite=77.239.125.72
 |anonymousemail.me^$dnsrewrite=77.239.125.72
-
+|business.gemini.google^$dnsrewrite=77.239.125.72
+|clientlog.business.gemini.google^$dnsrewrite=77.239.125.72
+|auth.business.gemini.google^$dnsrewrite=77.239.125.72
