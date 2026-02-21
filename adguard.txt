@@ -166,6 +166,7 @@
 |signaler-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |suggestqueries.google.com^$dnsrewrite=77.239.125.72
 |waa-pa.clients6.google.com^$dnsrewrite=77.239.125.72
+|www.google.com^$dnsrewrite=77.239.125.72
 |plugins.jetbrains.com^$dnsrewrite=77.239.125.72
 |proactivebackend-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |profile.broadcom.com^$dnsrewrite=77.239.125.72
