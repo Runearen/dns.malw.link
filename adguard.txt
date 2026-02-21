@@ -43,7 +43,6 @@
 ||clickup-sg.com^$dnsrewrite=77.239.125.72
 ||clickup.com^$dnsrewrite=77.239.125.72
 ||cloudmatchbeta.nvidiagrid.net^$dnsrewrite=77.239.125.72
-||codeium.com^$dnsrewrite=77.239.125.72
 ||coursera.org^$dnsrewrite=77.239.125.72
 ||coursera.support^$dnsrewrite=77.239.125.72
 ||coursera.community^$dnsrewrite=77.239.125.72
