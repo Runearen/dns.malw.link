@@ -24,7 +24,6 @@
 |deepmind.google^$dnsrewrite=77.239.125.72
 |developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
-||gstatic.com^$dnsrewrite=77.239.125.72
 |www.google.com^$dnsrewrite=77.239.125.72
 ||adobe.com^$dnsrewrite=77.239.125.72
 ||amd.com^$dnsrewrite=77.239.125.72
