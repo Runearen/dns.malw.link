@@ -26,7 +26,6 @@
 |deepmind.google^$dnsrewrite=77.239.125.72
 |developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
-|www.google.com^$dnsrewrite=77.239.125.72
 ||adobe.com^$dnsrewrite=77.239.125.72
 ||amd.com^$dnsrewrite=77.239.125.72
 ||analog.com^$dnsrewrite=77.239.125.72
@@ -161,6 +160,7 @@
 |nexus.dell.com^$dnsrewrite=77.239.125.72
 |notebooklm.google^$dnsrewrite=77.239.125.72
 |notebooklm.google.com^$dnsrewrite=77.239.125.72
+|notebooklm-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |o.pki.goog^$dnsrewrite=77.239.125.72
 |opal.withgoogle.com^$dnsrewrite=77.239.125.72
 |people-pa.clients6.google.com^$dnsrewrite=77.239.125.72
