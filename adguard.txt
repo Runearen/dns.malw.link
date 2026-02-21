@@ -162,6 +162,7 @@
 |notebooklm-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |o.pki.goog^$dnsrewrite=77.239.125.72
 |opal.withgoogle.com^$dnsrewrite=77.239.125.72
+|opal.google^$dnsrewrite=77.239.125.72
 |people-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |signaler-pa.clients6.google.com^$dnsrewrite=77.239.125.72
 |suggestqueries.google.com^$dnsrewrite=77.239.125.72
