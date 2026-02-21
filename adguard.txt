@@ -142,6 +142,7 @@
 |game-assets.clashroyaleapp.com^$dnsrewrite=77.239.125.72
 |gemini.google.com^$dnsrewrite=77.239.125.72
 |gemini.google^$dnsrewrite=77.239.125.72
+|business.gemini.google^$dnsrewrite=77.239.125.72
 |generativeai.google^$dnsrewrite=77.239.125.72
 |generativelanguage.googleapis.com^$dnsrewrite=77.239.125.72
 |gql.twitch.tv^$dnsrewrite=77.239.125.72
