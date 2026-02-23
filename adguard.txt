@@ -199,4 +199,4 @@
 |anonymousemail.me^$dnsrewrite=77.239.125.72
 |business.gemini.google^$dnsrewrite=77.239.125.72
 |clientlog.business.gemini.google^$dnsrewrite=77.239.125.72
-|auth.business.gemini.google^$dnsrewrite=77.239.125.72
+|geolocation.onetrust.com^$dnsrewrite=77.239.125.72
