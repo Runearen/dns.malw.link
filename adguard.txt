@@ -129,15 +129,10 @@
 |datalore.jetbrains.com^$dnsrewrite=77.239.125.72
 |dds.dell.com^$dnsrewrite=77.239.125.72
 |developer.nvidia.com^$dnsrewrite=77.239.125.72
+|build.nvidia.com^$dnsrewrite=77.239.125.72
 |download.jetbrains.com^$dnsrewrite=77.239.125.72
 |edgeservices.bing.com^$dnsrewrite=77.239.125.72
 |eu.posthog.com^$dnsrewrite=77.239.125.72
-|fitbit-pa.googleapis.com^$dnsrewrite=77.239.125.72
-|fitbit.google.com^$dnsrewrite=77.239.125.72
-|fitbitvestibuleshim-pa.googleapis.com^$dnsrewrite=77.239.125.72
-|game-assets.brawlstarsgame.com^$dnsrewrite=77.239.125.72
-|game-assets.clashofclans.com^$dnsrewrite=77.239.125.72
-|game-assets.clashroyaleapp.com^$dnsrewrite=77.239.125.72
 |gemini.google.com^$dnsrewrite=77.239.125.72
 |gemini.google^$dnsrewrite=77.239.125.72
 |generativeai.google^$dnsrewrite=77.239.125.72
