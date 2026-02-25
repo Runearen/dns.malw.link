@@ -61,7 +61,6 @@
 ||tryhackme.com^$dnsrewrite=46.8.238.140
 ||weather.com^$dnsrewrite=46.8.238.140
 ||wikidot.com^$dnsrewrite=46.8.238.140
-||wikidot.org^$dnsrewrite=46.8.238.140
 ||x.ai^$dnsrewrite=46.8.238.140
 ||zerossl.com^$dnsrewrite=46.8.238.140
 ||midjourney.com^$dnsrewrite=46.8.238.140
