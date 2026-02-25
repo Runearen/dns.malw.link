@@ -134,7 +134,7 @@
 |dnsspeedtest.online^$dnsrewrite=46.8.238.140
 |openaiapi-site.azureedge.net^$dnsrewrite=46.8.238.140
 |openaipublic.blob.core.windows.net^$dnsrewrite=46.8.238.140
-|xdaforums.com^$dnsrewrite=46.8.238.140
+|xdaforums.com^$dnsrewrite=77.239.125.72
 |anonymousemail.me^$dnsrewrite=46.8.238.140
 |auth.business.gemini.google^$dnsrewrite=77.239.125.72
 |business.gemini.google^$dnsrewrite=77.239.125.72
