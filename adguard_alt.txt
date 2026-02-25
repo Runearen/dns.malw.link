@@ -39,7 +39,6 @@
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
 ||hume.ai^$dnsrewrite=46.8.238.140
 ||hybrid-analysis.com^$dnsrewrite=46.8.238.140
-||linear.app^$dnsrewrite=46.8.238.140
 ||m3u.in^$dnsrewrite=46.8.238.140
 ||manus.im^$dnsrewrite=46.8.238.140
 ||mistral.ai^$dnsrewrite=46.8.238.140
@@ -62,6 +61,7 @@
 ||tryhackme.com^$dnsrewrite=46.8.238.140
 ||weather.com^$dnsrewrite=46.8.238.140
 ||wikidot.com^$dnsrewrite=46.8.238.140
+||wikidot.org^$dnsrewrite=46.8.238.140
 ||x.ai^$dnsrewrite=46.8.238.140
 ||zerossl.com^$dnsrewrite=46.8.238.140
 ||midjourney.com^$dnsrewrite=46.8.238.140
