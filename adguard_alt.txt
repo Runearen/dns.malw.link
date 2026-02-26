@@ -157,6 +157,7 @@
 |deepmind.google^$dnsrewrite=77.239.125.72
 |developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
+|www.trae.ai^$dnsrewrite=46.8.238.140
 |api.trae.ai^$dnsrewrite=46.8.238.140
 |api-sg-central.trae.ai^$dnsrewrite=46.8.238.140
 |trae-api-sg.mchost.guru^$dnsrewrite=46.8.238.140
