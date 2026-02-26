@@ -80,7 +80,6 @@
 |app.koofr.net^$dnsrewrite=46.8.238.140
 |assistant-s3-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |console.anthropic.com^$dnsrewrite=46.8.238.140
-|console.groq.com^$dnsrewrite=46.8.238.140
 |copilot.microsoft.com^$dnsrewrite=46.8.238.140
 |dds.dell.com^$dnsrewrite=46.8.238.140
 |developer.nvidia.com^$dnsrewrite=46.8.238.140
