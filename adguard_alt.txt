@@ -54,6 +54,7 @@
 ||qwant.com^$dnsrewrite=46.8.238.140
 ||sora.com^$dnsrewrite=46.8.238.140
 ||spotify.com^$dnsrewrite=46.8.238.140
+||scdn.co^$dnsrewrite=46.8.238.140
 ||spotifycdn.com^$dnsrewrite=46.8.238.140
 ||temp-number.org^$dnsrewrite=46.8.238.140
 ||tidal.com^$dnsrewrite=46.8.238.140
