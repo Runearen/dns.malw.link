@@ -39,7 +39,7 @@
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
 ||hume.ai^$dnsrewrite=46.8.238.140
 ||hybrid-analysis.com^$dnsrewrite=46.8.238.140
-||learntotradethemarket.com^$dnsrewrite=46.8.238.140
+||learntotradethemarket.com^$dnsrewrite=77.239.125.72
 ||m3u.in^$dnsrewrite=46.8.238.140
 ||manus.im^$dnsrewrite=46.8.238.140
 ||mistral.ai^$dnsrewrite=46.8.238.140
