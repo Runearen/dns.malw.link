@@ -58,7 +58,6 @@
 ||spotifycdn.com^$dnsrewrite=46.8.238.140
 ||temp-number.org^$dnsrewrite=46.8.238.140
 ||tidal.com^$dnsrewrite=46.8.238.140
-||trae.ai^$dnsrewrite=46.8.238.140
 ||tria.ge^$dnsrewrite=46.8.238.140
 ||tryhackme.com^$dnsrewrite=46.8.238.140
 ||weather.com^$dnsrewrite=46.8.238.140
@@ -158,3 +157,7 @@
 |deepmind.google^$dnsrewrite=77.239.125.72
 |developerprofiles-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |geller-pa.googleapis.com^$dnsrewrite=77.239.125.72
+|api.trae.ai^$dnsrewrite=46.8.238.140
+|api-sg-central.trae.ai^$dnsrewrite=46.8.238.140
+|trae-api-sg.mchost.guru^$dnsrewrite=46.8.238.140
+|api16-normal-alisg.mchost.guru^$dnsrewrite=46.8.238.140
