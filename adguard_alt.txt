@@ -9,6 +9,11 @@
 |rutor.info^$dnsrewrite=172.64.33.219
 |rutor.is^$dnsrewrite=172.64.33.219
 |d.rutor.info^$dnsrewrite=172.64.33.155
+|apm-sg.yun.hihonor.com^$dnsrewrite=77.239.125.72
+|hnoauth-login-dra.cloud.hihonor.com^$dnsrewrite=77.239.125.72
+|apm-ap.yun.hihonor.com^$dnsrewrite=77.239.125.72
+|apm-ru.yun.hihonor.com^$dnsrewrite=77.239.125.72
+|messagecenter-drcn.yun.hihonor.com^$dnsrewrite=77.239.125.72
 ||adobe.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=46.8.238.140
 ||anthropic.com^$dnsrewrite=46.8.238.140
