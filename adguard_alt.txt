@@ -36,6 +36,8 @@
 ||githubcopilot.com^$dnsrewrite=46.8.238.140
 ||grok.com^$dnsrewrite=46.8.238.140
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
+||hihonorcloud.com^$dnsrewrite=46.8.238.140
+||hihonor.com^$dnsrewrite=46.8.238.140
 ||hume.ai^$dnsrewrite=46.8.238.140
 ||hybrid-analysis.com^$dnsrewrite=46.8.238.140
 ||learntotradethemarket.com^$dnsrewrite=46.8.238.140
@@ -162,3 +164,4 @@
 |api-sg-central.trae.ai^$dnsrewrite=46.8.238.140
 |trae-api-sg.mchost.guru^$dnsrewrite=46.8.238.140
 |api16-normal-alisg.mchost.guru^$dnsrewrite=46.8.238.140
+|honor.zuimeitianqi.com^$dnsrewrite=46.8.238.140
