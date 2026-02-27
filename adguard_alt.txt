@@ -36,9 +36,9 @@
 ||githubcopilot.com^$dnsrewrite=46.8.238.140
 ||grok.com^$dnsrewrite=46.8.238.140
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
-||hihonorcloud.com^$dnsrewrite=46.8.238.140
-||hihonorcdn.com^$dnsrewrite=46.8.238.140
-||hihonor.com^$dnsrewrite=46.8.238.140
+||hihonorcloud.com^$dnsrewrite=77.239.125.72
+||hihonorcdn.com^$dnsrewrite=77.239.125.72
+||hihonor.com^$dnsrewrite=477.239.125.72
 ||hume.ai^$dnsrewrite=46.8.238.140
 ||hybrid-analysis.com^$dnsrewrite=46.8.238.140
 ||learntotradethemarket.com^$dnsrewrite=46.8.238.140
