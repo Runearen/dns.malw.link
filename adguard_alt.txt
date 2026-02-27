@@ -37,6 +37,7 @@
 ||grok.com^$dnsrewrite=46.8.238.140
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
 ||hihonorcloud.com^$dnsrewrite=46.8.238.140
+||hihonorcdn.com^$dnsrewrite=46.8.238.140
 ||hihonor.com^$dnsrewrite=46.8.238.140
 ||hume.ai^$dnsrewrite=46.8.238.140
 ||hybrid-analysis.com^$dnsrewrite=46.8.238.140
