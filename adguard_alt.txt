@@ -142,6 +142,7 @@
 |clientlog.business.gemini.google^$dnsrewrite=77.239.125.72
 |geolocation.onetrust.com^$dnsrewrite=77.239.125.72
 |controlplane.tailscale.com^$dnsrewrite=46.8.238.140
+|login.tailscale.com^$dnsrewrite=46.8.238.140
 |protonmail.com^$dnsrewrite=46.8.238.140
 |protonstatus.com^$dnsrewrite=46.8.238.140
 |pm.me^$dnsrewrite=46.8.238.140
