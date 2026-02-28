@@ -9,7 +9,6 @@
 |rutor.info^$dnsrewrite=172.64.33.219
 |rutor.is^$dnsrewrite=172.64.33.219
 |d.rutor.info^$dnsrewrite=172.64.33.155
-|trs-drru.push.hihonorcloud.com^$dnsrewrite=77.239.125.72
 ||adobe.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=46.8.238.140
 ||anthropic.com^$dnsrewrite=46.8.238.140
