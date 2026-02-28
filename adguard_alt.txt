@@ -33,6 +33,9 @@
 ||framer.com^$dnsrewrite=46.8.238.140
 ||figma.com^$dnsrewrite=46.8.238.140
 ||fmhy.net^$dnsrewrite=46.8.238.140
+||foxitsoftware.com^$dnsrewrite=46.8.238.140
+||foxit.com^$dnsrewrite=46.8.238.140
+||foxitservice.com^$dnsrewrite=46.8.238.140
 ||githubcopilot.com^$dnsrewrite=46.8.238.140
 ||grok.com^$dnsrewrite=46.8.238.140
 ||grokusercontent.com^$dnsrewrite=46.8.238.140
