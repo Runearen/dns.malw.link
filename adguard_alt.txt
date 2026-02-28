@@ -187,3 +187,4 @@
 |configserver.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |customersvc-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |log-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
+|foxit.us-6.evergage.com^$dnsrewrite=46.8.238.140
