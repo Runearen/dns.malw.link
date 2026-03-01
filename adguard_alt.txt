@@ -11,13 +11,13 @@
 |d.rutor.info^$dnsrewrite=172.64.33.155
 ||adobe.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=46.8.238.140
-||anthropic.com^$dnsrewrite=46.8.238.140
+||anthropic.com^$dnsrewrite=77.239.125.72
 ||apple.com^$dnsrewrite=46.8.238.140
 ||archive.org^$dnsrewrite=46.8.238.140
 ||behance.net^$dnsrewrite=46.8.238.140
 ||canva.com^$dnsrewrite=46.8.238.140
 ||chatgpt.com^$dnsrewrite=46.8.238.140
-||claude.ai^$dnsrewrite=46.8.238.140
+||claude.ai^$dnsrewrite=77.239.125.72
 ||coursera.org^$dnsrewrite=46.8.238.140
 ||coursera.support^$dnsrewrite=46.8.238.140
 ||coursera.community^$dnsrewrite=46.8.238.140
