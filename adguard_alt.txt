@@ -190,3 +190,15 @@
 |customersvc-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |log-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |foxit.us-6.evergage.com^$dnsrewrite=46.8.238.140
+|win1910.ipv6.microsoft.com^$dnsrewrite=46.8.238.140
+|azwindows.ipv6.microsoft.com.akadns.net^$dnsrewrite=46.8.238.140
+|ipv6.msftconnecttest.com^$dnsrewrite=46.8.238.140
+|ncsiv6-geo.trafficmanager.net^$dnsrewrite=46.8.238.140
+|a1968.i6g1.akamai.net.edgesuite.net^$dnsrewrite=46.8.238.140
+|a1961.g2.akamai.net^$dnsrewrite=46.8.238.140
+|ncsi-geo.trafficmanager.net^$dnsrewrite=46.8.238.140
+|www.msftconnecttest.com^$dnsrewrite=46.8.238.140
+|www.msftncsi.com.edgesuite.net^$dnsrewrite=46.8.238.140
+|www.microsoft.com-c-3.edgekey.net^$dnsrewrite=46.8.238.140
+|www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net^$dnsrewrite=46.8.238.140
+|e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
