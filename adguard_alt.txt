@@ -58,7 +58,6 @@
 ||spotify.com^$dnsrewrite=77.239.125.72
 ||scdn.co^$dnsrewrite=77.239.125.72
 ||spotifycdn.com^$dnsrewrite=77.239.125.72
-||tailscale.com^$dnsrewrite=77.239.125.72
 ||temp-number.org^$dnsrewrite=77.239.125.72
 ||tidal.com^$dnsrewrite=77.239.125.72
 ||trae.ai^$dnsrewrite=77.239.125.72
