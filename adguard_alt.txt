@@ -74,6 +74,8 @@
 ||dellcdn.com^$dnsrewrite=77.239.125.72
 ||datacamp.com^$dnsrewrite=77.239.125.72
 ||discord.me^$dnsrewrite=77.239.125.72
+||reve.art^$dnsrewrite=77.239.125.72
+||reve.com^$dnsrewrite=77.239.125.72
 |afcs.dellcdn.com^$dnsrewrite=77.239.125.72
 |aisandbox-pa.googleapis.com^$dnsrewrite=77.239.125.72
 |aitestkitchen.withgoogle.com^$dnsrewrite=77.239.125.72
