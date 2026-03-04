@@ -199,3 +199,4 @@
 |www.microsoft.com-c-3.edgekey.net^$dnsrewrite=77.239.125.72
 |www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net^$dnsrewrite=77.239.125.72
 |e13678.dscb.akamaiedge.net^$dnsrewrite=77.239.125.72
+|fonts.googleapis.com^$dnsrewrite=77.239.125.72
