@@ -1,4 +1,4 @@
-|auth.anthropic.com^$dnsrewrite=45.95.233.23
+|auth.anthropic.com^$dnsrewrite=45.155.204.190
 |instagram.com^$dnsrewrite=157.240.245.174
 |www.instagram.com^$dnsrewrite=157.240.245.174
 |b.i.instagram.com^$dnsrewrite=157.240.245.174
