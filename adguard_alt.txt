@@ -9,13 +9,6 @@
 |rutor.info^$dnsrewrite=172.64.33.219
 |rutor.is^$dnsrewrite=172.64.33.219
 |d.rutor.info^$dnsrewrite=172.64.33.155
-|apm-sg.yun.hihonor.com^$dnsrewrite=46.8.238.140
-|hnoauth-login-dra.cloud.hihonor.com^$dnsrewrite=46.8.238.140
-|apm-ap.yun.hihonor.com^$dnsrewrite=46.8.238.140
-|apm-ru.yun.hihonor.com^$dnsrewrite=46.8.238.140
-|messagecenter-drcn.yun.hihonor.com^$dnsrewrite=46.8.238.140
-|apm.yun.hihonor.com^$dnsrewrite=46.8.238.140
-|trs-drru.push.hihonorcloud.com^$dnsrewrite=46.8.238.140
 ||adobe.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=46.8.238.140
 ||anthropic.com^$dnsrewrite=46.8.238.140
@@ -191,6 +184,7 @@
 |configserver.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |customersvc-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |log-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
+|apm.yun.hihonor.com^$dnsrewrite=46.8.238.140
 |foxit.us-6.evergage.com^$dnsrewrite=46.8.238.140
 |win1910.ipv6.microsoft.com^$dnsrewrite=46.8.238.140
 |azwindows.ipv6.microsoft.com.akadns.net^$dnsrewrite=46.8.238.140
