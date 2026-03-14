@@ -197,3 +197,4 @@
 |e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
 |hdrezka-home.tv^$dnsrewrite=46.8.238.140
 |statichdrezka.ac^$dnsrewrite=46.8.238.140
+|api.hdrezka.tech^$dnsrewrite=46.8.238.140
