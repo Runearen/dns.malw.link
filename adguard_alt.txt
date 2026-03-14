@@ -197,3 +197,4 @@
 |hdrezka-home.tv^$dnsrewrite=46.8.238.140
 |statichdrezka.ac^$dnsrewrite=46.8.238.140
 |api.hdrezka.tech^$dnsrewrite=46.8.238.140
+|hdrzk.org^$dnsrewrite=46.8.238.140
