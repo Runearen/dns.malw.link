@@ -198,3 +198,4 @@
 |statichdrezka.ac^$dnsrewrite=46.8.238.140
 |api.hdrezka.tech^$dnsrewrite=46.8.238.140
 |hdrzk.org^$dnsrewrite=46.8.238.140
+|hdrezka.ag^$dnsrewrite=46.8.238.140
