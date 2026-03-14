@@ -194,8 +194,3 @@
 |www.microsoft.com-c-3.edgekey.net^$dnsrewrite=46.8.238.140
 |www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net^$dnsrewrite=46.8.238.140
 |e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
-|hdrezka-home.tv^$dnsrewrite=46.8.238.140
-|statichdrezka.ac^$dnsrewrite=46.8.238.140
-|api.hdrezka.tech^$dnsrewrite=46.8.238.140
-|hdrzk.org^$dnsrewrite=46.8.238.140
-|hdrezka.ag^$dnsrewrite=46.8.238.140
