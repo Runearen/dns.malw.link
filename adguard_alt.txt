@@ -184,7 +184,6 @@
 |configserver.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |customersvc-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
 |log-dra.platform.hihonorcloud.com^$dnsrewrite=46.8.238.140
-|apm.yun.hihonor.com^$dnsrewrite=46.8.238.140
 |foxit.us-6.evergage.com^$dnsrewrite=46.8.238.140
 |win1910.ipv6.microsoft.com^$dnsrewrite=46.8.238.140
 |azwindows.ipv6.microsoft.com.akadns.net^$dnsrewrite=46.8.238.140
