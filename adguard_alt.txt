@@ -194,6 +194,7 @@
 |www.microsoft.com-c-3.edgekey.net^$dnsrewrite=46.8.238.140
 |www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net^$dnsrewrite=46.8.238.140
 |e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
+|forum.ru-board.com^$dnsrewrite=46.8.238.140
 ||4pda.to^$dnsrewrite=46.8.238.140
 ||filmix.ac^$dnsrewrite=46.8.238.140
 ||filmix.biz^$dnsrewrite=46.8.238.140
@@ -202,5 +203,4 @@
 ||filmix.fm^$dnsrewrite=46.8.238.140
 ||filmix.la^$dnsrewrite=46.8.238.140
 ||filmix.tech^$dnsrewrite=46.8.238.140
-|forum.ru-board.com^$dnsrewrite=46.8.238.140
-|habr.com^$dnsrewrite=46.8.238.140
+||habr.com^$dnsrewrite=46.8.238.140
