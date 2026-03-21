@@ -205,4 +205,3 @@
 ||filmix.tech^$dnsrewrite=46.8.238.140
 |forum.ru-board.com^$dnsrewrite=46.8.238.140
 |habr.com^$dnsrewrite=46.8.238.140
-
