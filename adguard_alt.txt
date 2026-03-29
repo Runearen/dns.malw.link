@@ -203,3 +203,4 @@
 ||filmix.fm^$dnsrewrite=46.8.238.140
 ||filmix.la^$dnsrewrite=46.8.238.140
 ||filmix.tech^$dnsrewrite=46.8.238.140
+||habr.com^$dnsrewrite=46.8.238.140
