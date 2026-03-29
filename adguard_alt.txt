@@ -18,6 +18,7 @@
 ||canva.com^$dnsrewrite=46.8.238.140
 ||chatgpt.com^$dnsrewrite=46.8.238.140
 ||claude.ai^$dnsrewrite=46.8.238.140
+||claude.com^$dnsrewrite=46.8.238.140
 ||coursera.org^$dnsrewrite=46.8.238.140
 ||coursera.support^$dnsrewrite=46.8.238.140
 ||coursera.community^$dnsrewrite=46.8.238.140
