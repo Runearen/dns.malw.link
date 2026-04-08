@@ -57,6 +57,7 @@
 ||scdn.co^$dnsrewrite=46.8.238.140
 ||spotifycdn.com^$dnsrewrite=46.8.238.140
 ||squid.wtf^$dnsrewrite=46.8.238.140
+||qqdl.site^$dnsrewrite=46.8.238.140
 ||temp-number.org^$dnsrewrite=46.8.238.140
 ||tidal.com^$dnsrewrite=46.8.238.140
 ||trae.ai^$dnsrewrite=46.8.238.140
