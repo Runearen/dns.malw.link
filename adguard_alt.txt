@@ -197,6 +197,7 @@
 |www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net^$dnsrewrite=46.8.238.140
 |e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
 |forum.ru-board.com^$dnsrewrite=46.8.238.140
+|u.binimum.org^$dnsrewrite=46.8.238.140
 ||filmix.ac^$dnsrewrite=46.8.238.140
 ||filmix.biz^$dnsrewrite=46.8.238.140
 ||filmix.day^$dnsrewrite=46.8.238.140
