@@ -217,3 +217,14 @@
 ||filmix.fm^$dnsrewrite=46.8.238.140
 ||filmix.la^$dnsrewrite=46.8.238.140
 ||filmix.tech^$dnsrewrite=46.8.238.140
+||pscdn.co^$dnsrewrite=46.8.238.140
+||spotifycdn.net^$dnsrewrite=46.8.238.140
+|byspotify.com^$dnsrewrite=46.8.238.140
+|spoti.fi^$dnsrewrite=46.8.238.140
+|spotify-everywhere.com^$dnsrewrite=46.8.238.140
+|spotify.design^$dnsrewrite=46.8.238.140
+|spotifycharts.com^$dnsrewrite=46.8.238.140
+|spotifycodes.com^$dnsrewrite=46.8.238.140
+|spotifyforbrands.com^$dnsrewrite=46.8.238.140
+|spotifyjobs.com^$dnsrewrite=46.8.238.140
+|video-akpcw-cdn-spotify-com.akamaized.net^$dnsrewrite=46.8.238.140
