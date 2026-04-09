@@ -207,6 +207,8 @@
 |hifi-one.spotisaver.net^$dnsrewrite=46.8.238.140
 |hifi-two.spotisaver.net^$dnsrewrite=46.8.238.140
 |tidal.kinoplus.online^$dnsrewrite=46.8.238.140
+|api-global.squareup.com^$dnsrewrite=46.8.238.140
+|api.squareup.com^$dnsrewrite=46.8.238.140
 ||monochrome.tf^$dnsrewrite=46.8.238.140
 ||filmix.ac^$dnsrewrite=46.8.238.140
 ||filmix.biz^$dnsrewrite=46.8.238.140
