@@ -200,8 +200,7 @@
 |forum.ru-board.com^$dnsrewrite=46.8.238.140
 |u.binimum.org^$dnsrewrite=46.8.238.140
 |dab.yeet.su^$dnsrewrite=46.8.238.140
-|qbz.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
-|amzn.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
+||afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
 |dabmusic.xyz^$dnsrewrite=46.8.238.140
 |monochrome-api.samidy.com^$dnsrewrite=46.8.238.140
 |hifi-one.spotisaver.net^$dnsrewrite=46.8.238.140
@@ -228,5 +227,4 @@
 |spotifyforbrands.com^$dnsrewrite=46.8.238.140
 |spotifyjobs.com^$dnsrewrite=46.8.238.140
 |video-akpcw-cdn-spotify-com.akamaized.net^$dnsrewrite=46.8.238.140
-|sp.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
 |musicbrainz.org^$dnsrewrite=46.8.238.140
