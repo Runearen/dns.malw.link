@@ -51,6 +51,7 @@
 ||openrouter.ai^$dnsrewrite=46.8.238.140
 ||patreon.com^$dnsrewrite=46.8.238.140
 ||proton.me^$dnsrewrite=46.8.238.140
+||private.qobuz.com^$dnsrewrite=46.8.238.140
 ||qwant.com^$dnsrewrite=46.8.238.140
 ||qobuz.com^$dnsrewrite=46.8.238.140
 ||sora.com^$dnsrewrite=46.8.238.140
