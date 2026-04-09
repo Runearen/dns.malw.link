@@ -199,6 +199,15 @@
 |e13678.dscb.akamaiedge.net^$dnsrewrite=46.8.238.140
 |forum.ru-board.com^$dnsrewrite=46.8.238.140
 |u.binimum.org^$dnsrewrite=46.8.238.140
+|dab.yeet.su^$dnsrewrite=46.8.238.140
+|qbz.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
+|amzn.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
+|dabmusic.xyz^$dnsrewrite=46.8.238.140
+|monochrome-api.samidy.com^$dnsrewrite=46.8.238.140
+|hifi-one.spotisaver.net^$dnsrewrite=46.8.238.140
+|hifi-two.spotisaver.net^$dnsrewrite=46.8.238.140
+|tidal.kinoplus.online^$dnsrewrite=46.8.238.140
+||monochrome.tf^$dnsrewrite=46.8.238.140
 ||filmix.ac^$dnsrewrite=46.8.238.140
 ||filmix.biz^$dnsrewrite=46.8.238.140
 ||filmix.day^$dnsrewrite=46.8.238.140
