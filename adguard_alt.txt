@@ -232,3 +232,4 @@
 |musicbrainz.org^$dnsrewrite=46.8.238.140
 |api.song.link^$dnsrewrite=46.8.238.140
 |api.zarz.moe^$dnsrewrite=46.8.238.140
+|dl.musicdl.me^$dnsrewrite=46.8.238.140
