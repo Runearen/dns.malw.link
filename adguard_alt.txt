@@ -235,4 +235,3 @@
 |dl.musicdl.me^$dnsrewrite=46.8.238.140
 |lyrics.paxsenix.org^$dnsrewrite=46.8.238.140
 |lrclib.net^$dnsrewrite=46.8.238.140
-|aefd.nelreports.net^$dnsrewrite=46.8.238.140
