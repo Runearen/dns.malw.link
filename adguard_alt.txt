@@ -228,3 +228,5 @@
 |spotifyforbrands.com^$dnsrewrite=46.8.238.140
 |spotifyjobs.com^$dnsrewrite=46.8.238.140
 |video-akpcw-cdn-spotify-com.akamaized.net^$dnsrewrite=46.8.238.140
+|sp.afkarxyz.qzz.io^$dnsrewrite=46.8.238.140
+|musicbrainz.org^$dnsrewrite=46.8.238.140
