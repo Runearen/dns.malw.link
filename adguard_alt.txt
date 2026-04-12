@@ -236,3 +236,4 @@
 |lyrics.paxsenix.org^$dnsrewrite=46.8.238.140
 |lrclib.net^$dnsrewrite=46.8.238.140
 |sla-intl.trustlook.com^$dnsrewrite=46.8.238.140
+|streaming-qobuz-std.akamaized.net^$dnsrewrite=46.8.238.140
