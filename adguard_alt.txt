@@ -10,6 +10,7 @@
 |rutor.is^$dnsrewrite=172.64.33.219
 |d.rutor.info^$dnsrewrite=172.64.33.155
 ||adobe.com^$dnsrewrite=46.8.238.140
+||amazon.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=46.8.238.140
 ||anthropic.com^$dnsrewrite=46.8.238.140
 ||apple.com^$dnsrewrite=46.8.238.140
@@ -238,3 +239,4 @@
 |lrclib.net^$dnsrewrite=46.8.238.140
 |sla-intl.trustlook.com^$dnsrewrite=46.8.238.140
 |streaming-qobuz-std.akamaized.net^$dnsrewrite=46.8.238.140
+|na.mesk.skill.music.a2z.com^$dnsrewrite=46.8.238.140
