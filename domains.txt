@@ -230,7 +230,7 @@
 |musicbrainz.org^$dnsrewrite=46.8.238.140
 ||song.link^$dnsrewrite=46.8.238.140
 |api.zarz.moe^$dnsrewrite=46.8.238.140
-|dl.musicdl.me^$dnsrewrite=46.8.238.140
+|dl.musicdl.me^$dnsrewrite=2.27.14.19
 |lyrics.paxsenix.org^$dnsrewrite=46.8.238.140
 |lrclib.net^$dnsrewrite=46.8.238.140
 |streaming-qobuz-std.akamaized.net^$dnsrewrite=46.8.238.140
