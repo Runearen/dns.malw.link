@@ -240,3 +240,4 @@
 |sla-intl.trustlook.com^$dnsrewrite=2.27.14.19
 |streaming-qobuz-std.akamaized.net^$dnsrewrite=2.27.14.19
 |na.mesk.skill.music.a2z.com^$dnsrewrite=2.27.14.19
+|songstats.com^$dnsrewrite=2.27.14.19
