@@ -232,7 +232,7 @@
 |spotifyjobs.com^$dnsrewrite=2.27.14.19
 |video-akpcw-cdn-spotify-com.akamaized.net^$dnsrewrite=2.27.14.19
 |musicbrainz.org^$dnsrewrite=2.27.14.19
-|api.song.link^$dnsrewrite=2.27.14.19
+||song.link^$dnsrewrite=2.27.14.19
 |api.zarz.moe^$dnsrewrite=2.27.14.19
 |dl.musicdl.me^$dnsrewrite=2.27.14.19
 |lyrics.paxsenix.org^$dnsrewrite=2.27.14.19
