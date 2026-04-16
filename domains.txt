@@ -10,10 +10,10 @@
 |rutor.is^$dnsrewrite=172.64.33.219
 |d.rutor.info^$dnsrewrite=172.64.33.155
 ||adobe.com^$dnsrewrite=2.27.14.19
-||amazon.com^$dnsrewrite=2.27.14.19
+||amazon.com^$dnsrewrite=46.8.238.140
 ||amd.com^$dnsrewrite=2.27.14.19
 ||anthropic.com^$dnsrewrite=2.27.14.19
-||apple.com^$dnsrewrite=2.27.14.19
+||apple.com^$dnsrewrite=46.8.238.140
 ||archive.org^$dnsrewrite=2.27.14.19
 ||behance.net^$dnsrewrite=2.27.14.19
 ||canva.com^$dnsrewrite=2.27.14.19
@@ -92,7 +92,7 @@
 |build.nvidia.com^$dnsrewrite=2.27.14.19
 |edgeservices.bing.com^$dnsrewrite=2.27.14.19
 |gemini.google.com^$dnsrewrite=2.27.14.19
-|gemini.google^$dnsrewrite=2.27.14.19
+||gemini.google^$dnsrewrite=2.27.14.19
 |generativeai.google^$dnsrewrite=2.27.14.19
 |generativelanguage.googleapis.com^$dnsrewrite=2.27.14.19
 |gpt3-openai.com^$dnsrewrite=2.27.14.19
@@ -140,10 +140,6 @@
 |openaipublic.blob.core.windows.net^$dnsrewrite=2.27.14.19
 |xdaforums.com^$dnsrewrite=2.27.14.19
 |anonymousemail.me^$dnsrewrite=2.27.14.19
-|auth.business.gemini.google^$dnsrewrite=2.27.14.19
-|business.gemini.google^$dnsrewrite=2.27.14.19
-|clientlog.business.gemini.google^$dnsrewrite=2.27.14.19
-|accountverification.business.gemini.google^$dnsrewrite=2.27.14.19
 |geolocation.onetrust.com^$dnsrewrite=2.27.14.19
 |controlplane.tailscale.com^$dnsrewrite=2.27.14.19
 |protonmail.com^$dnsrewrite=2.27.14.19
