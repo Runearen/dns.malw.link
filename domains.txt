@@ -236,3 +236,4 @@
 |streaming-qobuz-std.akamaized.net^$dnsrewrite=46.8.238.140
 |na.mesk.skill.music.a2z.com^$dnsrewrite=46.8.238.140
 |songstats.com^$dnsrewrite=46.8.238.140
+|http.kali.org^$dnsrewrite=46.8.238.140
