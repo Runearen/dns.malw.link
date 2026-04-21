@@ -237,3 +237,4 @@
 |na.mesk.skill.music.a2z.com^$dnsrewrite=46.8.238.140
 |songstats.com^$dnsrewrite=46.8.238.140
 |http.kali.org^$dnsrewrite=2.27.14.19
+|pwn.college^$dnsrewrite=2.27.14.19
