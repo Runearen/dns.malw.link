@@ -77,6 +77,7 @@
 ||dellcdn.com^$dnsrewrite=2.27.14.19
 ||datacamp.com^$dnsrewrite=2.27.14.19
 ||discord.me^$dnsrewrite=2.27.14.19
+||ubuntu.com^$dnsrewrite=2.27.14.19
 |afcs.dellcdn.com^$dnsrewrite=2.27.14.19
 |aisandbox-pa.googleapis.com^$dnsrewrite=2.27.14.19
 |aitestkitchen.withgoogle.com^$dnsrewrite=2.27.14.19
