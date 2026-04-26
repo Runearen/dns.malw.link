@@ -46,6 +46,7 @@
 ||mistral.ai^$dnsrewrite=2.27.14.19
 ||notion.so^$dnsrewrite=2.27.14.19
 ||notion.com^$dnsrewrite=2.27.14.19
+||notion.site^$dnsrewrite=2.27.14.19
 ||oaistatic.com^$dnsrewrite=2.27.14.19
 ||oaiusercontent.com^$dnsrewrite=2.27.14.19
 ||openai.com^$dnsrewrite=2.27.14.19
