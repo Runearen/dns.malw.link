@@ -77,7 +77,6 @@
 ||dellcdn.com^$dnsrewrite=2.27.14.19
 ||datacamp.com^$dnsrewrite=2.27.14.19
 ||discord.me^$dnsrewrite=2.27.14.19
-||ubuntu.com^$dnsrewrite=2.27.14.19
 |afcs.dellcdn.com^$dnsrewrite=2.27.14.19
 |aisandbox-pa.googleapis.com^$dnsrewrite=2.27.14.19
 |aitestkitchen.withgoogle.com^$dnsrewrite=2.27.14.19
@@ -93,7 +92,7 @@
 |build.nvidia.com^$dnsrewrite=2.27.14.19
 |edgeservices.bing.com^$dnsrewrite=2.27.14.19
 |gemini.google.com^$dnsrewrite=2.27.14.19
-||gemini.google^$dnsrewrite=2.27.14.19
+|gemini.google^$dnsrewrite=2.27.14.19
 |generativeai.google^$dnsrewrite=2.27.14.19
 |generativelanguage.googleapis.com^$dnsrewrite=2.27.14.19
 |gpt3-openai.com^$dnsrewrite=2.27.14.19
