@@ -242,4 +242,3 @@
 ||magnific.com^$dnsrewrite=2.27.14.19
 ||pexels.com^$dnsrewrite=2.27.14.19
 ||icons8.com^$dnsrewrite=2.27.14.19
-||loon.site^$dnsrewrite=2.27.14.19
