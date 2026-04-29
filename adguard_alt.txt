@@ -243,3 +243,4 @@
 ||magnific.com^$dnsrewrite=46.8.238.140
 ||pexels.com^$dnsrewrite=46.8.238.140
 ||icons8.com^$dnsrewrite=46.8.238.140
+||artboard.studio^$dnsrewrite=46.8.238.140
