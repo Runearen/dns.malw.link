@@ -240,3 +240,6 @@
 |sla-intl.trustlook.com^$dnsrewrite=46.8.238.140
 |streaming-qobuz-std.akamaized.net^$dnsrewrite=46.8.238.140
 |na.mesk.skill.music.a2z.com^$dnsrewrite=46.8.238.140
+||magnific.com^$dnsrewrite=46.8.238.140
+||pexels.com^$dnsrewrite=46.8.238.140
+||icons8.com^$dnsrewrite=46.8.238.140
