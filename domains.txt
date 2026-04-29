@@ -239,5 +239,6 @@
 |songstats.com^$dnsrewrite=46.8.238.140
 |http.kali.org^$dnsrewrite=2.27.14.19
 |pwn.college^$dnsrewrite=2.27.14.19
-|www.magnific.com^$dnsrewrite=2.27.14.19
-|www.pexels.com^$dnsrewrite=2.27.14.19
+||magnific.com^$dnsrewrite=2.27.14.19
+||pexels.com^$dnsrewrite=2.27.14.19
+||icons8.com^$dnsrewrite=2.27.14.19
