@@ -246,3 +246,6 @@
 |app.framerstatic.com^$dnsrewrite=46.8.238.140
 |frmrspply.myshopify.com^$dnsrewrite=46.8.238.140
 |framerusercontent.com^$dnsrewrite=46.8.238.140
+|app.artboard.studio^$dnsrewrite=46.8.238.140
+|use.typekit.net^$dnsrewrite=46.8.238.140
+|a1988.dscg1.akamai.net^$dnsrewrite=46.8.238.140
