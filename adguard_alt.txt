@@ -194,7 +194,7 @@
 |foxit.us-6.evergage.com^$dnsrewrite=46.8.238.140
 |win1910.ipv6.microsoft.com^$dnsrewrite=46.8.238.140
 |azwindows.ipv6.microsoft.com.akadns.net^$dnsrewrite=46.8.238.140
-|a1961.g2.akamai.net^$dnsrewrite=46.8.238.140
+||akamai.net^$dnsrewrite=46.8.238.140
 |ncsi-geo.trafficmanager.net^$dnsrewrite=46.8.238.140
 |www.msftconnecttest.com^$dnsrewrite=46.8.238.140
 |www.msftncsi.com.edgesuite.net^$dnsrewrite=46.8.238.140
@@ -248,6 +248,5 @@
 |framerusercontent.com^$dnsrewrite=46.8.238.140
 |app.artboard.studio^$dnsrewrite=46.8.238.140
 |use.typekit.net^$dnsrewrite=46.8.238.140
-|a1988.dscg1.akamai.net^$dnsrewrite=46.8.238.140
 ||uizard.io^$dnsrewrite=46.8.238.140
 ||adobedtm.com^$dnsrewrite=46.8.238.140
