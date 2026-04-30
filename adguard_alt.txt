@@ -250,3 +250,4 @@
 |use.typekit.net^$dnsrewrite=46.8.238.140
 |a1988.dscg1.akamai.net^$dnsrewrite=46.8.238.140
 ||uizard.io^$dnsrewrite=46.8.238.140
+||adobedtm.com^$dnsrewrite=46.8.238.140
