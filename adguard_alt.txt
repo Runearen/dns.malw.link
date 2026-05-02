@@ -240,3 +240,4 @@
 |use.typekit.net^$dnsrewrite=46.8.238.140
 ||uizard.io^$dnsrewrite=46.8.238.140
 ||adobedtm.com^$dnsrewrite=46.8.238.140
+|markdown.kr^$dnsrewrite=46.8.238.140
