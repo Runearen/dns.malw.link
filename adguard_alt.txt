@@ -243,4 +243,4 @@
 |markdown.kr^$dnsrewrite=46.8.238.140
 |sourceforge.net^$dnsrewrite=46.8.238.140
 ||waydro.id^$dnsrewrite=46.8.238.140
-|losst.pro^$dnsrewrite=46.8.238.140
+||losst.pro^$dnsrewrite=46.8.238.140
