@@ -246,3 +246,4 @@
 ||losst.pro^$dnsrewrite=77.239.125.72
 ||safereactor.cc^$dnsrewrite=77.239.125.72
 |cdn.auth0.com^$dnsrewrite=46.8.238.140
+|galileo.ai^$dnsrewrite=46.8.238.140
