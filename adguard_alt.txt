@@ -248,3 +248,4 @@
 |cdn.auth0.com^$dnsrewrite=46.8.238.140
 ||release-assets.githubusercontent.com^$dnsrewrite=46.8.238.140
 ||galileo.ai^$dnsrewrite=46.8.238.140
+||grokipedia.com^$dnsrewrite=46.8.238.140
