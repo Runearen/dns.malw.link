@@ -257,3 +257,4 @@
 |cdn.auth0.com^$dnsrewrite=2.27.14.19
 ||galileo.ai^$dnsrewrite=77.239.125.72
 ||release-assets.githubusercontent.com^$dnsrewrite=2.27.14.19
+||grokipedia.com^$dnsrewrite=2.27.14.19
