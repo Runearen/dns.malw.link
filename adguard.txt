@@ -1,3 +1,6 @@
+|sfunpay.com^$dnsrewrite=31.77.161.201
+|sync-v2.brave.com^$dnsrewrite=31.77.161.201
+|sync-alb-152764135.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
 |search.brave.com^$dnsrewrite=31.77.161.201
 |cdn.search.brave.com^$dnsrewrite=31.77.161.201
 |tilda.cc^$dnsrewrite=31.77.161.201
