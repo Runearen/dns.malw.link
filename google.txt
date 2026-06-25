@@ -1,3 +1,5 @@
+|o.pki.goog^$dnsrewrite=31.77.161.201
+|stitch.googleapis.com^$dnsrewrite=31.77.161.201
 |clients6.google.com^$dnsrewrite=31.77.161.201
 |content.googleapis.com^$dnsrewrite=31.77.161.201
 |www.googleapis.com^$dnsrewrite=31.77.161.201
