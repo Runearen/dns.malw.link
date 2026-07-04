@@ -1,6 +1,5 @@
 |sfunpay.com^$dnsrewrite=31.77.161.201
 |sync-v2.brave.com^$dnsrewrite=31.77.161.201
-|sync-alb-152764135.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
 |search.brave.com^$dnsrewrite=31.77.161.201
 |cdn.search.brave.com^$dnsrewrite=31.77.161.201
 |tilda.cc^$dnsrewrite=31.77.161.201
@@ -37,8 +36,6 @@
 |safebrowsing.brave.com^$dnsrewrite=31.77.161.201
 |extensionupdater.brave.com^$dnsrewrite=31.77.161.201
 |go-updater.brave.com^$dnsrewrite=31.77.161.201
-|go-updater-1830831421.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
-|brave-production-proxy-238320562.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
 |files.openai.com^$dnsrewrite=31.77.161.201
 |mr-afd-azuredge.tm-azurefd.net^$dnsrewrite=31.77.161.201
 |brand.brex.com^$dnsrewrite=31.77.161.201
@@ -280,7 +277,6 @@
 |coursera.community^$dnsrewrite=31.77.161.201
 |coursera.help^$dnsrewrite=31.77.161.201
 |coursera.org^$dnsrewrite=31.77.161.201
-|coursera_assets.s3.amazonaws.com^$dnsrewrite=31.77.161.201
 |cs-pr-cf.audio.tidal.com^$dnsrewrite=31.77.161.201
 |customersvc-dra.platform.hihonorcloud.com^$dnsrewrite=31.77.161.201
 |d.docs.live.net^$dnsrewrite=31.77.161.201
@@ -579,7 +575,6 @@
 |podz-content.spotifycdn.com^$dnsrewrite=31.77.161.201
 |portal.gcore.com^$dnsrewrite=31.77.161.201
 |portfolio.adobe.com^$dnsrewrite=31.77.161.201
-|ppl-ai-file-upload.s3.amazonaws.com^$dnsrewrite=31.77.161.201
 |pplx-next-static-public.perplexity.ai^$dnsrewrite=31.77.161.201
 |pps.services.adobe.com^$dnsrewrite=31.77.161.201
 |prod-rel-ffc-ccm.oobesaas.adobe.com^$dnsrewrite=31.77.161.201
