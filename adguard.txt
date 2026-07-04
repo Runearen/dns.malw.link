@@ -821,3 +821,11 @@
 |http-inputs-notion.splunkcloud.com^$dnsrewrite=31.77.161.201
 |file.notion.so^$dnsrewrite=31.77.161.201
 |ecomagent.in^$dnsrewrite=31.77.161.201
+||figma.com^$dnsrewrite=31.77.161.201
+||figma.site^$dnsrewrite=31.77.161.201
+||makeproxy-c.figma.site^$dnsrewrite=31.77.161.201
+||makeproxy-m.figma.site^$dnsrewrite=31.77.161.201
+||awswaf.com^$dnsrewrite=31.77.161.201
+||esm.sh^$dnsrewrite=31.77.161.201
+||jsdelivr.net^$dnsrewrite=31.77.161.201
+||figma.app^$dnsrewrite=31.77.161.201
