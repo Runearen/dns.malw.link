@@ -827,5 +827,6 @@
 ||makeproxy-m.figma.site^$dnsrewrite=31.77.161.201
 ||awswaf.com^$dnsrewrite=31.77.161.201
 ||esm.sh^$dnsrewrite=31.77.161.201
+||amazonaws.com^$dnsrewrite=31.77.161.201
 ||jsdelivr.net^$dnsrewrite=31.77.161.201
 ||figma.app^$dnsrewrite=31.77.161.201
