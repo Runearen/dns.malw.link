@@ -39,16 +39,9 @@
 |go-updater.brave.com^$dnsrewrite=31.77.161.201
 |go-updater-1830831421.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
 |brave-production-proxy-238320562.us-west-2.elb.amazonaws.com^$dnsrewrite=31.77.161.201
-|figma.zendesk.com^$dnsrewrite=31.77.161.201
-|mcp.figma.com^$dnsrewrite=31.77.161.201
 |files.openai.com^$dnsrewrite=31.77.161.201
 |mr-afd-azuredge.tm-azurefd.net^$dnsrewrite=31.77.161.201
 |brand.brex.com^$dnsrewrite=31.77.161.201
-|s3-figma-hubfile-images-production.figma.com^$dnsrewrite=31.77.161.201
-|check-network-compatibility.figma.site^$dnsrewrite=31.77.161.201
-|check-network-compatibility.makeproxy-c.figma.site^$dnsrewrite=31.77.161.201
-|squad-grow-71348076.figma.site^$dnsrewrite=31.77.161.201
-|status.makeproxy-m.figma.site^$dnsrewrite=31.77.161.201
 |ui.aceternity.com^$dnsrewrite=31.77.161.201
 |aceternity.com^$dnsrewrite=31.77.161.201
 |humanize.ai^$dnsrewrite=31.77.161.201
@@ -124,7 +117,6 @@
 |api.console.anthropic.com^$dnsrewrite=31.77.161.201
 |api.deepl.com^$dnsrewrite=31.77.161.201
 |api.deezer.com^$dnsrewrite=31.77.161.201
-|api.figma.com^$dnsrewrite=31.77.161.201
 |api.fmhy.net^$dnsrewrite=31.77.161.201
 |api.framer.com^$dnsrewrite=31.77.161.201
 |api.gcore.com^$dnsrewrite=31.77.161.201
@@ -232,7 +224,6 @@
 |cdn.auth0.com^$dnsrewrite=31.77.161.201
 |cdn.datacamp.com^$dnsrewrite=31.77.161.201
 |cdn.fbsbx.com^$dnsrewrite=31.77.161.201
-|cdn.figma.com^$dnsrewrite=31.77.161.201
 |cdn.grok.com^$dnsrewrite=31.77.161.201
 |cdn.magnific.com^$dnsrewrite=31.77.161.201
 |cdn.make.com^$dnsrewrite=31.77.161.201
@@ -273,7 +264,6 @@
 |compliance.datacamp.com^$dnsrewrite=31.77.161.201
 |concerts.spotifycdn.com^$dnsrewrite=31.77.161.201
 |config-chr.health.apple.com^$dnsrewrite=31.77.161.201
-|config.figma.com^$dnsrewrite=31.77.161.201
 |configserver.platform.hihonorcloud.com^$dnsrewrite=31.77.161.201
 |configuration.apple.com^$dnsrewrite=31.77.161.201
 |configuration.ls.apple.com^$dnsrewrite=31.77.161.201
@@ -340,7 +330,6 @@
 |edge.perplexity.ai^$dnsrewrite=31.77.161.201
 |edgeservices.bing.com^$dnsrewrite=31.77.161.201
 |email.tidal.com^$dnsrewrite=31.77.161.201
-|embed.figma.com^$dnsrewrite=31.77.161.201
 |en-pr-cf.audio.tidal.com^$dnsrewrite=31.77.161.201
 |encore.scdn.co^$dnsrewrite=31.77.161.201
 |entitlements.itunes.apple.com^$dnsrewrite=31.77.161.201
@@ -361,7 +350,6 @@
 |feature-flagging.deepl.com^$dnsrewrite=31.77.161.201
 |featureassets.org^$dnsrewrite=31.77.161.201
 |ffc-static-cdn.oobesaas.adobe.com^$dnsrewrite=31.77.161.201
-|figma.com^$dnsrewrite=31.77.161.201
 |files.oaiusercontent.com^$dnsrewrite=31.77.161.201
 |firefly.adobe.com^$dnsrewrite=31.77.161.201
 |fmhy.net^$dnsrewrite=31.77.161.201
@@ -411,7 +399,6 @@
 |heads-fa-tls13.spotifycdn.com^$dnsrewrite=31.77.161.201
 |help-center-cdn.oaistatic.com^$dnsrewrite=31.77.161.201
 |help.apple.com^$dnsrewrite=31.77.161.201
-|help.figma.com^$dnsrewrite=31.77.161.201
 |help.openai.com^$dnsrewrite=31.77.161.201
 |help.zerossl.com^$dnsrewrite=31.77.161.201
 |hnid-dra.cloud.honor.com^$dnsrewrite=31.77.161.201
@@ -625,9 +612,6 @@
 |s.qwant.com^$dnsrewrite=31.77.161.201
 |s1.qwant.com^$dnsrewrite=31.77.161.201
 |s2.qwant.com^$dnsrewrite=31.77.161.201
-|s3-alpha-sig.figma.com^$dnsrewrite=31.77.161.201
-|s3-alpha.figma.com^$dnsrewrite=31.77.161.201
-|s3-figma-force-client-reloads-production.figma.com^$dnsrewrite=31.77.161.201
 |sandbox.itunes.apple.com^$dnsrewrite=31.77.161.201
 |sas.pcms.apple.com^$dnsrewrite=31.77.161.201
 |sdmntprcentralindia.oaiusercontent.com^$dnsrewrite=31.77.161.201
@@ -689,7 +673,6 @@
 |static-www.qobuz.com^$dnsrewrite=31.77.161.201
 |static.canva.com^$dnsrewrite=31.77.161.201
 |static.deepl.com^$dnsrewrite=31.77.161.201
-|static.figma.com^$dnsrewrite=31.77.161.201
 |static.gc.apple.com^$dnsrewrite=31.77.161.201
 |static.pexels.com^$dnsrewrite=31.77.161.201
 |static.qobuz.com^$dnsrewrite=31.77.161.201
@@ -796,7 +779,6 @@
 |www.deezer.com^$dnsrewrite=31.77.161.201
 |www.dell.com^$dnsrewrite=31.77.161.201
 |www.dellcdn.com^$dnsrewrite=31.77.161.201
-|www.figma.com^$dnsrewrite=31.77.161.201
 |www.fmhy.net^$dnsrewrite=31.77.161.201
 |www.framer.com^$dnsrewrite=31.77.161.201
 |www.grok.com^$dnsrewrite=31.77.161.201
