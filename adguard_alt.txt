@@ -5,3 +5,11 @@
 |www.instagram.com^$dnsrewrite=157.240.245.174
 |b.i.instagram.com^$dnsrewrite=157.240.245.174
 |z-p42-chat-e2ee-ig.facebook.com^$dnsrewrite=157.240.245.174
+||figma.com^$dnsrewrite=31.77.161.201
+||figma.site^$dnsrewrite=31.77.161.201
+||makeproxy-c.figma.site^$dnsrewrite=31.77.161.201
+||makeproxy-m.figma.site^$dnsrewrite=31.77.161.201
+||awswaf.com^$dnsrewrite=31.77.161.201
+||esm.sh^$dnsrewrite=31.77.161.201
+||jsdelivr.net^$dnsrewrite=31.77.161.201
+||figma.app^$dnsrewrite=31.77.161.201
