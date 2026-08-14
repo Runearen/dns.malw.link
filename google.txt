@@ -78,3 +78,6 @@
 |www.gstatic.com^$dnsrewrite=31.77.161.201
 |www3.l.google.com^$dnsrewrite=31.77.161.201
 |﻿ai.google.dev^$dnsrewrite=31.77.161.201
+|subscriptionsfirstparty-pa.googleapis.com=31.77.161.201
+|android.googleapis.com=31.77.161.201
+|signaler-pa.googleapis.com=31.77.161.201
