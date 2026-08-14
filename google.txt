@@ -81,3 +81,7 @@
 |subscriptionsfirstparty-pa.googleapis.com=31.77.161.201
 |android.googleapis.com=31.77.161.201
 |signaler-pa.googleapis.com=31.77.161.201
+|footprints-pa.googleapis.com=31.77.161.201
+|locationhistory-pa.googleapis.com=31.77.161.201
+|mtalk.google.com=31.77.161.201
+|gz1.googleusercontent.com=31.77.161.201
