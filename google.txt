@@ -94,3 +94,6 @@
 |notebook.google.com^$dnsrewrite=31.77.161.201
 |aicode.googleapis.com^$dnsrewrite=31.77.161.201
 |aida.googleapis.com^$dnsrewrite=31.77.161.201
+|connectivitycheck.gstatic.com^$dnsrewrite=31.77.161.201
+|play-fe.googleapis.com^$dnsrewrite=31.77.161.201
+|play.googleapis.com^$dnsrewrite=31.77.161.201
