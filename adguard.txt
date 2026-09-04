@@ -825,4 +825,3 @@
 ||amazonaws.com^$dnsrewrite=2.26.27.207
 ||jsdelivr.net^$dnsrewrite=2.26.27.207
 ||figma.app^$dnsrewrite=2.26.27.207
-|embeddedassistant.googleapis.com^$dnsrewrite=2.26.27.207
