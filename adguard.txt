@@ -825,3 +825,5 @@
 ||amazonaws.com^$dnsrewrite=2.26.27.207
 ||jsdelivr.net^$dnsrewrite=2.26.27.207
 ||figma.app^$dnsrewrite=2.26.27.207
+|assistant.sys.tv.mi.com^$dnsrewrite=2.26.27.207
+|assistant.duokanbox.com^$dnsrewrite=2.26.27.207
