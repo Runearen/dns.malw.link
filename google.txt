@@ -97,3 +97,4 @@
 |connectivitycheck.gstatic.com^$dnsrewrite=2.26.27.207
 |play-fe.googleapis.com^$dnsrewrite=2.26.27.207
 |play.googleapis.com^$dnsrewrite=2.26.27.207
+|embeddedassistant.googleapis.com^$dnsrewrite=2.26.27.207
