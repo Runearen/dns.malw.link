@@ -825,3 +825,4 @@
 ||amazonaws.com^$dnsrewrite=2.26.27.207
 ||jsdelivr.net^$dnsrewrite=2.26.27.207
 ||figma.app^$dnsrewrite=2.26.27.207
+||office365.com^$dnsrewrite=2.26.27.207
