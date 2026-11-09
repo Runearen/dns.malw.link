@@ -113,3 +113,8 @@
 |firebaselogging.googleapis.com^$dnsrewrite=2.26.27.207
 |ogads-pa.googleapis.com^$dnsrewrite=2.26.27.207
 |mediation.goog^$dnsrewrite=2.26.27.207
+|oauth2.googleapis.com^$dnsrewrite=2.26.27.207
+|stun.l.google.com^$dnsrewrite=2.26.27.207
+|mcp.to.design^$dnsrewrite=2.26.27.207
+|registry.npmjs.org^$dnsrewrite=2.26.27.207
+|api.mobbin.com^$dnsrewrite=2.26.27.207
