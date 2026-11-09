@@ -118,3 +118,13 @@
 |mcp.to.design^$dnsrewrite=2.26.27.207
 |registry.npmjs.org^$dnsrewrite=2.26.27.207
 |api.mobbin.com^$dnsrewrite=2.26.27.207
+|play-lh.googleusercontent.com^$dnsrewrite=2.26.27.207
+|mobileconfiguration-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|searchnotifications-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|clients3.google.com^$dnsrewrite=2.26.27.207
+|playstoregatewayadapter-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|android.clients.google.com^$dnsrewrite=2.26.27.207
+|notifications-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|alt2-mtalk.google.com^$dnsrewrite=2.26.27.207
+|lamssettings-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|xgapromomanager-pa.googleapis.com^$dnsrewrite=2.26.27.207
