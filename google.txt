@@ -103,5 +103,7 @@
 |people-pa.googleapis.com^$dnsrewrite=2.26.27.207
 |firebaselogging-pa.googleapis.com^$dnsrewrite=2.26.27.207
 |crashlyticsreports-pa.googleapis.com^$dnsrewrite=2.26.27.207
-|ohttp-relay-safebrowsing-android.google.fastly-edge.com
-
+|ohttp-relay-safebrowsing-android.google.fastly-edge.com^$dnsrewrite=2.26.27.207
+|googleads.g.doubleclick.net^$dnsrewrite=2.26.27.207
+|prod-lt-playstoregatewayadapter-pa.googleapis.com^$dnsrewrite=2.26.27.207
+|www.googletagservices.com^$dnsrewrite=2.26.27.207
