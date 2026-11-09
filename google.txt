@@ -110,3 +110,5 @@
 |tpc.googlesyndication.com^$dnsrewrite=2.26.27.207
 |android-safebrowsing.google.com^$dnsrewrite=2.26.27.207
 |safebrowsing.googleapis.com^$dnsrewrite=2.26.27.207
+|firebaselogging.googleapis.com^$dnsrewrite=2.26.27.207
+|ogads-pa.googleapis.com^$dnsrewrite=2.26.27.207
