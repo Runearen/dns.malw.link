@@ -107,3 +107,6 @@
 |googleads.g.doubleclick.net^$dnsrewrite=2.26.27.207
 |prod-lt-playstoregatewayadapter-pa.googleapis.com^$dnsrewrite=2.26.27.207
 |www.googletagservices.com^$dnsrewrite=2.26.27.207
+|tpc.googlesyndication.com^$dnsrewrite=2.26.27.207
+|android-safebrowsing.google.com^$dnsrewrite=2.26.27.207
+|safebrowsing.googleapis.com^$dnsrewrite=2.26.27.207
